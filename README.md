@@ -6,6 +6,10 @@ This project is a personal digital business card designed as part of a frontend 
 
 ![Screenshot of the Business Card](images/screenshot.png)
 
+## Live Site
+
+You can view the live version of the business card [here](https://dynamic-biscuit-04b0c3.netlify.app/).
+
 ## Features
 
 - **Web Safe Font**: Implemented "Comic Sans MS" to give the card a unique, playful look.
