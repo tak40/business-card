@@ -8,7 +8,7 @@ This project is a personal digital business card designed as part of a frontend 
 
 ## Live Site
 
-You can view the live version of the business card [here](https://dynamic-biscuit-04b0c3.netlify.app/).
+You can view the live version of the business card [here](https://personal-digital-business-card.netlify.app/).
 
 ## Features
 
