@@ -1,6 +1,52 @@
 # Personal Digital Business Card
 
-Quick start:
+## Overview
+
+This project is a personal digital business card designed as part of a frontend career path challenge from Scrimba. The goal was to implement a visually appealing business card using HTML and CSS, while exploring various web development techniques and tools.
+
+![Screenshot of the Business Card](images/screenshot.png)
+
+## Features
+
+- **Web Safe Font**: Implemented "Comic Sans MS" to give the card a unique, playful look.
+- **Color Palette**: Selected a color palette from Coolors.co to enhance the card's visual appeal.
+- **Hover Effects**: Added glowing and bouncing animations on hover to make the card interactive and engaging.
+- **Clean and Organized Code**: Ensured the HTML and CSS are well-structured and maintainable.
+
+## Goals
+
+### Basic Goals
+
+- **Web Safe Font**: Find and implement a web safe font.
+- **Color Palette**: Select a color palette from Coolors.co and use it in the business card.
+
+### Stretch Goals
+
+- **Personalization**:
+  - Shadows
+  - Hover effects
+  - Animations
+
+## Changes Made
+
+### Initial Version
+
+- Used Verdana, Geneva, Tahoma, sans-serif as the font.
+- Basic color palette with light background and dark text.
+- Simple static layout.
+
+### Final Version
+
+- **Font**: Changed to "Comic Sans MS" for a unique and playful look.
+- **Color Scheme**:
+  - Background color of the card: `#ccd5ae`
+  - Border-bottom color: `#d4a373`
+  - Background color of the body: `#fefae0`
+- **Hover Effects**: Added glowing effect on hover for text elements and bounce animation for the avatar.
+- **Animations**: Implemented keyframe animations for interactive elements.
+- **Image**: Updated to a new image `BearzClub.png`.
+
+## Quick start:
 
 ```
 $ npm install
