@@ -1,24 +1,14 @@
-<<<<<<< HEAD
 # Personal Digital Business Card
-=======
-# Business Card
->>>>>>> 3b934e79cf88f2aecfc4174adadb0d70bdc03bd9
 
 Quick start:
 
 ```
 $ npm install
 $ npm start
-<<<<<<< HEAD
 ```
 
 Head over to https://vitejs.dev/ to learn more about using vite
 
-=======
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
->>>>>>> 3b934e79cf88f2aecfc4174adadb0d70bdc03bd9
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
